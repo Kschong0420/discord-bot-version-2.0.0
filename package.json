@@ -1,0 +1,26 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kschong0420_",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "@k3rn31p4nic/google-translate-api": "^1.1.1",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.9",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "images-scraper": "^6.0.1",
+    "minecraft-server-util": "^3.4.3",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.1",
+    "reconlx": "^1.1.2",
+    "weather-js": "^2.0.0"
+  }
+}
