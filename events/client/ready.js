@@ -1,3 +1,3 @@
-module.exports = () =>{
-    console.log('Vanilla is Online!');
+module.exports = () => {
+  console.log('Vanilla is Online!')
 }
