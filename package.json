@@ -11,7 +11,7 @@
   "author": "Kschong0420_",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.4.0",
+    "@discordjs/opus": "^0.8.0",
     "@k3rn31p4nic/google-translate-api": "^1.1.1",
     "discord.js": "^12.5.1",
     "distube": "^2.8.9",
